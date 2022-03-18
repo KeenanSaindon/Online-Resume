@@ -1,0 +1,12 @@
+@charset "utf-8";
+@import "../node_modules/bulma/bulma.sass";
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
+
+$pri-blue: #2476ff;
+$sec-blue: #5e9aff;
+$tir-blue: #8cb8ff;
+
+$family-sans-serif: "Mulish", sans-serif;
+$primary: $pri-blue;
+$secondary: $sec-blue;
